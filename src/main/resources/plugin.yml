@@ -1,0 +1,4 @@
+name: Hyt
+main: h3xadecimal.liquidloader.hytplugin.HytPlugin
+version: 1.0
+author: H3xadecimal
